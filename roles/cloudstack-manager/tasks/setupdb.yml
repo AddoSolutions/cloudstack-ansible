@@ -10,4 +10,4 @@
 
 
 - name: Setup CloudStack Manager
-  command: /usr/bin/cloudstack-setup-management
+  command: "cloudstack-setup-management --tomcat7"
